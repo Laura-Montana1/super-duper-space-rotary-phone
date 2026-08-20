@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  color:rgb(177, 177, 241);
+  font-size: 2em;
 }
 
 .App-logo {
@@ -28,4 +30,13 @@
 
 .small {
   font-size: 0.75rem;
+}
+.person{
+  background-color:rgb(108, 139, 223);
+  padding:20px;
+  margin-top:20px;
+  border-radius:10px;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
 }
